@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @RahulGupta1042
-- 🌱 I’m currently learning C, Python and Java
-
-<!---
-RahulGupta1042/RahulGupta1042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://user-images.githubusercontent.com/96524007/172214415-3b2ab3e9-957d-4735-b6dc-7d7a94562a0c.png)
